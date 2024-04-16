@@ -24,9 +24,13 @@
 - ## Languages and Tools
 
 <code><image height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"</code>
+
 <code><image height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white""</code>
+
 <code><image height="30" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white""</code>
+
 <code><image height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white""</code>
+
 <code><image height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white""</code>
 <code><image height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white""</code>
 <code><image height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white""</code>
