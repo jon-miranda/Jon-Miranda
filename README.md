@@ -1,27 +1,19 @@
 ### Hi there 👋
 
-# Welcome!
+# Bem-Vindos!
 
- 
+:computer: Sou Back-End Developer!
 
-## I'm Jonathan!
+:house_with_garden: Moro em Rio de Janeiro.
 
- 
-
-:computer: I'm Back-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
+:books: Atualmente estudando para me tornar Fullstack!
 
 
-## About me
+## Meu perfil LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miranda-jon/)]( https://www.linkedin.com/in/miranda-jon/)
 
-- Thanks for visiting.
-
-- ## Languages and Tools
+- ## Linguagens e ferramentas que eu utilizo:
 
 <div style="display inline">
  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
